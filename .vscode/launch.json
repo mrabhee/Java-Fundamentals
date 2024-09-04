@@ -1,0 +1,343 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AccessmemberInh",
+            "request": "launch",
+            "mainClass": "AccessmemberInh",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "DemoSup",
+            "request": "launch",
+            "mainClass": "DemoSup",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "DemoSuper",
+            "request": "launch",
+            "mainClass": "DemoSuper",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Expr.Hello",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "ImpPck.Pc2.Test",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "DemoInf",
+            "request": "launch",
+            "mainClass": "Interface.DemoInf",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "Firstclass",
+            "request": "launch",
+            "mainClass": "OOPS.Class.Firstclass",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulationclass",
+            "request": "launch",
+            "mainClass": "OOPS.Encapsulation.Encapsulationclass",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "Test(1)",
+            "request": "launch",
+            "mainClass": "OOPS.Inheritance.basics.Test",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "Overloadingclass",
+            "request": "launch",
+            "mainClass": "OOPS.Overloading.Overloadingclass",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "Overridingclass",
+            "request": "launch",
+            "mainClass": "OOPS.Overriding.Overridingclass",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "PackagesJava.FirstPackage.Demo",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "Demo(1)",
+            "request": "launch",
+            "mainClass": "PackagesJava.SecongExample.P1.Demo",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "DemoP2",
+            "request": "launch",
+            "mainClass": "PackagesJava.SecongExample.P2.DemoP2",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "HDFCBankTest",
+            "request": "launch",
+            "mainClass": "Project.HDFCBankTest",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "RefSubclass",
+            "request": "launch",
+            "mainClass": "RefSubclass",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "StackAM",
+            "request": "launch",
+            "mainClass": "Stack.StackAM",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "StackTest",
+            "request": "launch",
+            "mainClass": "Stack.StackTest",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "Test(2)",
+            "request": "launch",
+            "mainClass": "Tryrun.AccesModefier.Test",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "CBR",
+            "request": "launch",
+            "mainClass": "Tryrun.CBR.CBR",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "CBY",
+            "request": "launch",
+            "mainClass": "Tryrun.CBY.CBY",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "Commandlineargs",
+            "request": "launch",
+            "mainClass": "Tryrun.CommandLineArg.Commandlineargs",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "Consobj",
+            "request": "launch",
+            "mainClass": "Tryrun.Constructorobj.Consobj",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Tryrun.Factorial.Factorial",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "MainClass",
+            "request": "launch",
+            "mainClass": "Tryrun.NestefClasses.MainClass",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "RetuOb",
+            "request": "launch",
+            "mainClass": "Tryrun.ReturningOB.RetuOb",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "StringUse",
+            "request": "launch",
+            "mainClass": "Tryrun.StringClass.StringUse",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "TestOb",
+            "request": "launch",
+            "mainClass": "Tryrun.Test.TestOb",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "StaticUse",
+            "request": "launch",
+            "mainClass": "Tryrun.UsingStatic.StaticUse",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "Demo(2)",
+            "request": "launch",
+            "mainClass": "Tryrun.varargs.Demo",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "NewDemo",
+            "request": "launch",
+            "mainClass": "Tryrun.varargs.NewDemo",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "arrays",
+            "request": "launch",
+            "mainClass": "array.arrays",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "basics.A",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "Experiment",
+            "request": "launch",
+            "mainClass": "basics.Experiment",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "Return",
+            "request": "launch",
+            "mainClass": "basics.Return",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "basics.calculator",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "driver",
+            "request": "launch",
+            "mainClass": "basics.driver",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "scannerclass",
+            "request": "launch",
+            "mainClass": "basics.scannerclass",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "variable",
+            "request": "launch",
+            "mainClass": "basics.variable",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "ifelseStatement",
+            "request": "launch",
+            "mainClass": "ifelse.ifelseStatement",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "carSelector",
+            "request": "launch",
+            "mainClass": "ifelse.selector.carSelector",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "Alphapattern",
+            "request": "launch",
+            "mainClass": "loops.Alphapattern",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "Forloop",
+            "request": "launch",
+            "mainClass": "loops.Forloop",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "NumberPatterns",
+            "request": "launch",
+            "mainClass": "loops.NumberPatterns",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "Starpattern",
+            "request": "launch",
+            "mainClass": "loops.Starpattern",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "CurrecyConverter",
+            "request": "launch",
+            "mainClass": "loops.switchcase.CurrecyConverter",
+            "projectName": "javalanguage_8a1de8f5"
+        },
+        {
+            "type": "java",
+            "name": "whileloops",
+            "request": "launch",
+            "mainClass": "loops.whileloops",
+            "projectName": "javalanguage_8a1de8f5"
+        }
+    ]
+}
